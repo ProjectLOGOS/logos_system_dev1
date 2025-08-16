@@ -430,12 +430,6 @@ export THONOC_PREDICTION_HORIZON=500
 - 🔲 Research collaborations
 - 🔲 Global deployment
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-**Why MIT License?** To ensure maximum accessibility and prevent suppression of this critical technology. The mathematical truths contained herein belong to God and humanity.
-
 ## ⚠️ The Stakes
 
 **We are in a race against time.** Every day brings us closer to the AGI threshold. If unaligned systems achieve superintelligence first, humanity faces unprecedented existential risk.
